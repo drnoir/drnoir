@@ -2,6 +2,8 @@
 
 A little About me...
 
+![Chris](https://github.com/drnoir/drnoir/blob/master/pic.jpg)Format: ![Photo of Chris Godber - Web Developer](url)
+
 ### Real Name: Chris Godber
 ### English Web Developer Currently based in Moscow Russia
 
