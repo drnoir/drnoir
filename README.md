@@ -1,5 +1,4 @@
 #  Hello I'm Dr Noir
-A little About me... (not an actual dr)
 ![Chris](https://github.com/drnoir/drnoir/blob/master/pic.jpg)
 
 ### Real Name: Chris Godber
