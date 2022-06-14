@@ -2,7 +2,7 @@
 ![Chris](https://github.com/drnoir/drnoir/blob/master/pic.jpg)
 
 ### Real Name: Chris Godber
-### English Web Developer Currently based in London
+### British Web Developer Currently based in Scotland
 Portfolio: [www.chrisgodber.co.uk](www.chrisgodber.co.uk)
 
 ### Current Roles 
