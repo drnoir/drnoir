@@ -5,24 +5,28 @@
 ### English Web Developer Currently based in London
 Portfolio: [www.chrisgodber.co.uk](www.chrisgodber.co.uk)
 
-### Current Role 
-* Contracter doing AR Development, Three JS AFrame etc
-* React Developer 
+### Current Roles 
+* Contracter with EyeKandy doing AR Development, Three JS AFrame etc
+* Community Manager with StikiPixels - PT managing comms and marketing / social media 
+* Self directed open source / Indie game / Educational projects / Libraries  
 
 ### Prev Roles
-Frontend Engineer at [Deslyon](https://deslyon.com/) and [StickiPixels](https://www.stikipixels.com/) and Freelance
+Senior Full Stack Engineer at [Deslyon](https://deslyon.com/) and Front End Engineer with [StickiPixels](https://www.stikipixels.com/) and Freelance
 
 ### Languages / Skills
-* javascript
+* javascript / Typescript
+* NPM exp
 * html5
-* css3 
-* React
+* css3  / Bootstrap / Tailwind
+* React / Redux
 * A-Frame
-* Three.js / webGL
-* Game Development
-* Source Control
-* AFrame
+* Three.js / webGL / basic Shader coding 
+* Unreal Engine 
+* Source Control - Github, Git, various clients
+* AFrame 
 * 8th Wall
+* PlayCanvas
+* AWS 
 
 ### Find out more
 * [YouTube Channel](https://www.youtube.com/channel/UCdwx6HHyPoDTtL9iq1-sI3A) - NoirNerd (Tutorials and code overviews)
