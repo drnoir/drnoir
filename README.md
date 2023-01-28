@@ -5,7 +5,7 @@
 - Portfolio: [https://www.chrisgodber.co.uk](www.chrisgodber.co.uk)
 - Online Tutorials: [https://www.youtube.com/c/noirnerd](NoirNerd)
 - Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
-- Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo](Time in Moscow / Desylon and Kultura Ex Machina)
+- Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo] (Time in Moscow / Desylon and Kultura Ex Machina)
 
 ### Current Roles 
 * Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS 
