@@ -1,12 +1,11 @@
 #  Hello I'm Dr Noir (I'm not a doctor and I'm often up late)
-![Chris](https://github.com/drnoir/drnoir/blob/master/pic.jpg)
 
 ### Real Name: Chris Godber
 ### British Creative Programmer Currently based in Scotland
-Portfolio: [https://www.chrisgodber.co.uk](www.chrisgodber.co.uk)
-Online Tutorials: [https://www.youtube.com/c/noirnerd](NoirNerd)
-Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
-Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo](Time in Moscow / Desylon and Kultura Ex Machina)
+- Portfolio: [https://www.chrisgodber.co.uk](www.chrisgodber.co.uk)
+- Online Tutorials: [https://www.youtube.com/c/noirnerd](NoirNerd)
+- Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
+- Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo](Time in Moscow / Desylon and Kultura Ex Machina)
 
 ### Current Roles 
 * Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS 
