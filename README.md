@@ -1,7 +1,7 @@
 #  Hello I'm Dr Noir (I'm not a doctor and I'm often up late)
 
 ### Real Name: Chris Godber
-### British Creative Programmer Currently based in Scotland
+### British Creative Programmer Currently based in London
 - Portfolio: [https://www.chrisgodber.co.uk](www.chrisgodber.co.uk)
 - Online Tutorials: [https://www.youtube.com/c/noirnerd](NoirNerd)
 - Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
@@ -9,14 +9,14 @@
 
 ### Current Roles 
 * Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS 
-* Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit  
+* Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit Limited
 
 ### Commerical Projects (Recent)
 * NoirNights Solo Developer (Android / Web) [https://youtu.be/Ipw9ZHtbPrY]
-* Various Indie games - Solo Dev (js / lua / low code) [https://drnoir.itch.io/]
+* Various Indie games - Solo Dev (js / lua / low code / Unreal) [https://drnoir.itch.io/]
 * Greening Green Street Developer AR (three js / 8thwall) [https://welcometogreenstreet.com/]
 * Frubes AR Game - Gameplay / physics Programmer (Playcanvas / js) [https://frubes-play.com/]
-* Kultura - Frontend Engineer (React / js) [https://kultura.art/]
+* Kultura - Frontend Engineer (React / js / node ) [https://kultura.art/]
 * Deslyon - Senior Associate Developer (React / Node / js / aws) developing two data driven apps (Both are dead as they went nocode and our backend engineer died) 
 
 ### Open source tools / frameworks etc
@@ -36,10 +36,9 @@ See Pinned
 * Semantic html5
 * CSS3  / Bootstrap / Tailwind
 * React / Redux / Other libs 
-* A-Frame
-* Three.js / webGL / basic Shader coding 
+* Three.js / webGL / Basic Shader coding 
 * Unreal Engine (Blueprints) / Twine / Unity - Lua / JS
-* Source Control - Github, Git, various clients
+* Source Control - Github, Git, Git Cli, various clients
 * AFrame - Components / Apps
 * 8th Wall
 * PlayCanvas:Games / Tools / Templates [https://playcanvas.com/user/falling_free]
