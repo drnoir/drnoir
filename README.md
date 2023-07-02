@@ -12,6 +12,7 @@
 * Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit Limited
 
 ### Commerical Projects (Recent)
+* Currently working on React app freelance (3D Kitchen preview application)
 * City of the Damned (Web / Windows) [https://drnoir.itch.io/city-of-the-damned]
 * NoirNights Solo Developer (Android / Web) [https://youtu.be/Ipw9ZHtbPrY]
 * Various Indie games - Solo Dev (js / lua / low code / Unreal) [https://drnoir.itch.io/]
