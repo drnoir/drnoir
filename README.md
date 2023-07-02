@@ -12,6 +12,7 @@
 * Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit Limited
 
 ### Commerical Projects (Recent)
+* City of the Damned (Web / Windows) [https://drnoir.itch.io/city-of-the-damned]
 * NoirNights Solo Developer (Android / Web) [https://youtu.be/Ipw9ZHtbPrY]
 * Various Indie games - Solo Dev (js / lua / low code / Unreal) [https://drnoir.itch.io/]
 * Greening Green Street Developer AR (three js / 8thwall) [https://welcometogreenstreet.com/]
@@ -32,7 +33,7 @@ See Pinned
 ### Languages / Skills
 * javascript / Typescript (Functional JS)
 * PHP (Wordpress themes)
-* NPM exp
+* NPM / Node
 * Semantic html5
 * CSS3  / Bootstrap / Tailwind
 * React / Redux / Other libs 
