@@ -8,10 +8,10 @@
 - Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo] (Time in Moscow / Desylon and Kultura Ex Machina)
 
 Talk on WebXR
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YWhG71l5x7o?si=57pfbVhnN0zutTfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![alt text](https://img.youtube.com/vi/YWhG71l5x7o/0.jpg)](https://youtu.be/YWhG71l5x7o)
 
 Papyrus3D - Main currnet project 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mseV_VOZbCo?si=ctM_8U9djhmXV8e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![alt text](https://img.youtube.com/vi/mseV_VOZbCo/0.jpg)](https://youtu.be/mseV_VOZbCo)
 
 ### prev Roles 
 * Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS
