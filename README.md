@@ -7,12 +7,20 @@
 - Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
 - Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo] (Time in Moscow / Desylon and Kultura Ex Machina)
 
-### Current Roles 
-* Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS 
+Talk on WebXR
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YWhG71l5x7o?si=57pfbVhnN0zutTfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Papyrus3D - Main currnet project 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mseV_VOZbCo?si=ctM_8U9djhmXV8e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### prev Roles 
+* Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS
+
+* Currently - 
 * Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit Limited
 
 ### Commerical Projects (Recent)
-* Currently working on React app freelance (3D Kitchen preview application)
+* working on React app freelance (3D Kitchen preview application)
 * City of the Damned (Web / Windows) [https://drnoir.itch.io/city-of-the-damned]
 * NoirNights Solo Developer (Android / Web) [https://youtu.be/Ipw9ZHtbPrY]
 * Various Indie games - Solo Dev (js / lua / low code / Unreal) [https://drnoir.itch.io/]
