@@ -7,11 +7,13 @@
 - Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
 - Time in Moscow / Kultura etc: [https://youtu.be/j9S47y49Noo] (Time in Moscow / Desylon and Kultura Ex Machina)
 
-Talks:
-Talk on WebXR
+### Talks:
+##### Talk on WebXR
+
 [![alt text](https://img.youtube.com/vi/YWhG71l5x7o/0.jpg)](https://youtu.be/YWhG71l5x7o)
 
-Papyrus3D - Main current open source 
+##### Papyrus3D - Main current open source 
+
 [![alt text](https://img.youtube.com/vi/mseV_VOZbCo/0.jpg)](https://youtu.be/mseV_VOZbCo)
 
 ### prev Roles 
