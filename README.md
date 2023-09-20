@@ -16,6 +16,10 @@
 
 [![alt text](https://img.youtube.com/vi/mseV_VOZbCo/0.jpg)](https://youtu.be/mseV_VOZbCo)
 
+##### Some video talking about some of my prev work in WebXR
+[![alt text](https://img.youtube.com/vi/pvP_JIpAjnE/0.jpg)](https://youtu.be/pvP_JIpAjnE)
+
+
 ### prev Roles 
 * Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS
 
