@@ -1,7 +1,7 @@
 #  Hello I'm Dr Noir (I'm not a doctor and I'm often up late)
 
 ### Real Name: Chris Godber
-### British Creative Programmer Currently based in mANCHESTER
+### British Creative Programmer Currently based in Cheshire
 - Portfolio: [https://www.chrisgodber.co.uk](www.chrisgodber.co.uk)
 - Online Tutorials: [https://www.youtube.com/c/noirnerd](NoirNerd)
 - Talk on WebXR dev: [https://youtu.be/YWhG71l5x7o](EdinbughJS)
