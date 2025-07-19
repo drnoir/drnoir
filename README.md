@@ -24,7 +24,7 @@
 * Contracter - prev with EyeKandy, Alchemy Immersive doing AR Development,Playcanvas Three JS / TS
 
 * Currently - 
-* Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit Limited
+* Self directed open source / Indie game / Educational projects / Libraries with Alien Rabbit Limited / Lecturer at College FT teaching IT and Creative Media courses
 
 ### Commerical Projects (Recent)
 * working on React app freelance (3D Kitchen preview application)
